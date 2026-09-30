@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-71.318,41.776],[-71.355,41.747],[-71.225,41.71],[-71.318,41.776]]]},"properties":{"GEOID":"44001","STATEFP":"44","NAMELSAD":"Bristol County"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-71.196,41.675],[-71.272,41.624],[-71.343,41.496],[-71.121,41.497],[-71.133,41.66],[-71.196,41.675]]]},"properties":{"GEOID":"44005","STATEFP":"44","NAMELSAD":"Newport County"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-71.79,41.725],[-71.789,41.597],[-71.484,41.604],[-71.409,41.654],[-71.385,41.757],[-71.455,41.732],[-71.79,41.725]]]},"properties":{"GEOID":"44003","STATEFP":"44","NAMELSAD":"Kent County"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-71.861,41.32],[-71.483,41.372],[-71.418,41.473],[-71.409,41.654],[-71.484,41.604],[-71.789,41.597],[-71.794,41.506],[-71.798,41.417],[-71.861,41.32]]]},"properties":{"GEOID":"44009","STATEFP":"44","NAMELSAD":"Washington County"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-71.799,42.008],[-71.79,41.725],[-71.455,41.732],[-71.385,41.757],[-71.355,41.747],[-71.318,41.776],[-71.382,41.893],[-71.381,41.985],[-71.498,42.017],[-71.799,42.008]]]},"properties":{"GEOID":"44007","STATEFP":"44","NAMELSAD":"Providence County"}}
+]}
