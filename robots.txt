@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /account/
+Disallow: /purchase/
+Disallow: /help/
+
+Sitemap: https://freecontractorservices.com/sitemap.xml
